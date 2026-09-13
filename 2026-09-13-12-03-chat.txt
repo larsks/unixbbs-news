@@ -1,0 +1,12 @@
+From: Lars N1LKS
+To: All
+Date: Sun, 13 Sep 2026 12:03:42 -0400
+Subject: Chat system is now available
+
+There is now a simple multi-user chat feature available on the BBS. To enter the chat system:
+
+    chat
+
+For more information, see:
+
+    help chat
