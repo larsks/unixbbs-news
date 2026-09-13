@@ -1,0 +1,10 @@
+From: Lars N1LKS
+To: All
+Date: Sun, 13 Sep 2026 10:01:45 -0400
+Subject: Welcome to the BBS!
+
+Hey, thanks for logging in! This BBS is my attempt to bring a little more
+activity into the Boston packet radio scene. You can find the entire setup
+at <https://github.com/larsks/unixbbs>. Feel free to suggest any changes or
+enhancements that you think would make this a more entertaining or
+functional experience.
