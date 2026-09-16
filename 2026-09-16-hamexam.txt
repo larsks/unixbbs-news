@@ -1,0 +1,26 @@
+From: Lars N1LKS
+To: All
+Date: Wed, 16 Sep 2026 09:05:28 -0400
+Subject: Amateur radio practice questions
+
+You can now use the `hamexam` command to receive random questions from
+the FCC question pool of your choice. For example:
+
+    N1LKS$ hamexam general
+    Question G1B10
+    ===============
+
+    What is the power limit for beacon stations?
+
+    A. 10 watts PEP output
+    B. 20 watts PEP output
+    C. 100 watts PEP output
+    D. 200 watts PEP output
+
+    Your answer? c
+
+    That's correct! Great work.
+
+    N1LKS$ 
+
+Run `hamexam -l` to see the list of available question pools.
